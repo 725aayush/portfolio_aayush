@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tweet Sentiment Analysis",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "description": "NLP-based sentiment classification using Hugging Face Transformers and Flask.",
+    "tools": ["Python", "NLP", "Flask", "Transformers"],
+    "github": "https://github.com/725aayush/TWEET-SENTIMENT-ANALYSIS",
+    "demo": "https://mood-metrecies-frontend.vercel.app/"
+  },
+  {
+    "title": "DeepFake Detection System",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
+    "description": "CNN-based Django web application to detect manipulated videos.",
+    "tools": ["Deep Learning", "CNN", "Django"],
+    "github": "https://github.com/725aayush/Deep_Fake_Detection",
+    "demo": ""
+  },
+  {
+    "title": "Sustainable Farming Dashboard",
+    "image": "https://i.postimg.cc/bwHj8b1t/sustainable-farming-ai.png",
+    "description": "Interactive dashboard for crop yield, soil health and analytics.",
+    "tools": ["Data Science", "Plotly", "Flask"],
+    "github": "https://github.com/725aayush/SUSTAINABLE_FARMING_DASHBOARD",
+    "demo": ""
+  }
+]
