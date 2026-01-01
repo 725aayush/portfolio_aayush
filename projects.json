@@ -38,5 +38,5 @@
     "tools": ["Python", "Pandas", "K-Nearest Neighbors", "Data Mining", "Matplotlib"],
     "github": "https://github.com/725aayush/Traffic-Congestion-Prediction",
     "demo": "https://traffic-congestion-oki7.onrender.com/graph#"
-  },
+  }
 ]
