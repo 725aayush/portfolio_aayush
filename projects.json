@@ -8,6 +8,14 @@
     "demo": "https://mood-metrecies-frontend.vercel.app/"
   },
   {
+    "title": "CinéScintille",
+    "image": "https://i.postimg.cc/PJ9fZLHs/Screenshot_2026_01_01_201435.png",
+    "description": "A full-stack movie recommendation site featuring a React frontend, Flask backend, and a custom recommendation engine utilizing collaborative and content-based filtering.",
+    "tools": ["React", "Flask", "Python", "Scikit-Learn", "SQLite"],
+    "github": "https://github.com/725aayush/CINESCINTILLE-",
+    "demo": "https://cinescintille.vercel.app/"
+  },
+  {
     "title": "DeepFake Detection System",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
     "description": "CNN-based Django web application to detect manipulated videos.",
@@ -23,4 +31,12 @@
     "github": "https://github.com/725aayush/SUSTAINABLE_FARMING_DASHBOARD",
     "demo": ""
   }
+  {
+    "title": "Traffic Congestion Prediction",
+    "image": "https://i.postimg.cc/j2mqNWbF/Screenshot_2026_01_01_201454.png",
+    "description": "A machine learning project designed to forecast urban traffic density by analyzing spatial and temporal correlations",
+    "tools": ["Python", "Pandas", "K-Nearest Neighbors", "Data Mining", "Matplotlib"],
+    "github": "https://github.com/725aayush/Traffic-Congestion-Prediction",
+    "demo": "https://traffic-congestion-oki7.onrender.com/graph#"
+  },
 ]
