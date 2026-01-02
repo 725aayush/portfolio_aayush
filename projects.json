@@ -24,6 +24,14 @@
     "demo": ""
   },
   {
+    "title": "Setu Sharing – Secure File Sharing System",
+    "image": "https://i.postimg.cc/8c3ZkYfS/secure-share.png",
+    "description": "A privacy-first, self-hosted file sharing system that enables secure directory sharing using password-protected links and QR codes. Designed without databases or cloud storage, the system relies on session-based authentication and direct filesystem access for secure, temporary sharing.",
+    "tools": "Python, Flask, Flask-CORS, QR Code Generation, Session-Based Authentication, Secure File Handling",
+    "github": "https://github.com/725aayush/Setu-Sharing",
+    "demo": "Self-hosted (Local / AWS EC2)"
+  },
+  {
     "title": "Sustainable Farming Dashboard",
     "image": "https://i.postimg.cc/bwHj8b1t/sustainable-farming-ai.png",
     "description": "Interactive dashboard for crop yield, soil health and analytics.",
@@ -38,5 +46,13 @@
     "tools": ["Python", "Pandas", "K-Nearest Neighbors", "Data Mining", "Matplotlib"],
     "github": "https://github.com/725aayush/Traffic-Congestion-Prediction",
     "demo": "https://traffic-congestion-oki7.onrender.com/graph#"
+  },
+  {
+    "title": "MoodMetrics – Sentiment Analysis System",
+    "image": "https://i.postimg.cc/Y0GQvX1m/moodmetrics.png",
+    "description": "An end-to-end sentiment analysis web application that classifies user input text into Positive, Negative, or Neutral sentiments using pre-trained transformer models from Hugging Face, exposed through a Flask API and an interactive React frontend.",
+    "tools": "Python, Flask, React, Hugging Face Transformers, REST API, Axios, NLP",
+    "github": "https://github.com/725aayush/MoodMetrics",
+    "demo": "https://moodmetrics.vercel.app"
   }
 ]
