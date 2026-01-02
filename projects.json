@@ -27,7 +27,7 @@
     "title": "Setu Sharing – Secure File Sharing System",
     "image": "https://i.postimg.cc/fLP1h6jC/create_share.png",
     "description": "A privacy-first, self-hosted file sharing system that enables secure directory sharing using password-protected links and QR codes. Designed without databases or cloud storage, the system relies on session-based authentication and direct filesystem access for secure, temporary sharing.",
-    "tools": "Python, Flask, Flask-CORS, QR Code Generation, Session-Based Authentication, Secure File Handling",
+    "tools": ["Python", "Flask", "Flask-CORS", QR Code Generation"],
     "github": "https://github.com/725aayush/Setu-Sharing",
     "demo": "Self-hosted (Local / AWS EC2)"
   },
@@ -51,7 +51,7 @@
     "title": "MoodMetrics – Sentiment Analysis System",
     "image": "https://i.postimg.cc/Y0GQvX1m/moodmetrics.png",
     "description": "An end-to-end sentiment analysis web application that classifies user input text into Positive, Negative, or Neutral sentiments using pre-trained transformer models from Hugging Face, exposed through a Flask API and an interactive React frontend.",
-    "tools": "Python, Flask, React, Hugging Face Transformers, REST API, Axios, NLP",
+    "tools": ["Python", "Flask", "React", "Hugging Face", "Transformers", "REST API", "Axios", "NLP"],
     "github": "https://github.com/725aayush/MoodMetrics",
     "demo": "https://moodmetrics.vercel.app"
   }
