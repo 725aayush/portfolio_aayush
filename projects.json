@@ -27,9 +27,9 @@
     "title": "Setu Sharing – Secure File Sharing System",
     "image": "https://i.postimg.cc/fLP1h6jC/create_share.png",
     "description": "A privacy-first, self-hosted file sharing system that enables secure directory sharing using password-protected links and QR codes. Designed without databases or cloud storage, the system relies on session-based authentication and direct filesystem access for secure, temporary sharing.",
-    "tools": ["Python", "Flask", "Flask-CORS", QR Code Generation"],
+    "tools": ["Python", "Flask", "Flask-CORS", "QR Code Generation"],
     "github": "https://github.com/725aayush/Setu-Sharing",
-    "demo": "Self-hosted (Local / AWS EC2)"
+    "demo": ""
   },
   {
     "title": "Sustainable Farming Dashboard",
